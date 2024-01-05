@@ -16,6 +16,19 @@ Neuro Poems
 }
 
 
+:: * {"position":"875,500","size":"100,100"}
+config.style.page.color: "#267155 on #9CD89B"
+config.style.page.link.color: '#267155'
+
+--
+
+Tutel will give us a poem someday...
+
+***
+
+{link to: 'Table of Contents', label: 'Back'}
+
+
 :: 2023 [evil] {"position":"1400,250","size":"100,100"}
 sound.effect.poem.url: "audio/" + passage.name + ".mp3"
 sound.effect.poem.description: "poem"
@@ -540,6 +553,7 @@ and together we'll conquer the Subathon vibe!
 
 :: Table of Contents {"position":"625,450","size":"100,100"}
 config.header.center: "{passage.name}"
+config.footer.center: "[[*]]"
 config.footer.left: "[[Credits]]"
 config.style.page.color: "#CF1E63 on #FDE7CA"
 config.style.page.link.color: '#CF1E63'
