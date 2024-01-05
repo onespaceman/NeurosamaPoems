@@ -1,0 +1,407 @@
+:: StoryTitle
+Neuro Poems
+
+
+:: StoryData
+{
+  "ifid": "19DD0D39-034D-4ED5-B085-1DF9EB99F5A4",
+  "format": "Chapbook",
+  "format-version": "1.2.3",
+  "start": "Table of Contents",
+  "tag-colors": {
+    "neuro": "yellow",
+    "evil": "red"
+  },
+  "zoom": 1
+}
+
+
+:: 2023 [evil] {"position":"1400,250","size":"100,100"}
+sound.ambient.poem.url: passage.name + ".mp3"
+sound.ambient.poem.description: "poem"
+config.style.page.color: "#FDE7CA on #660000"
+config.style.page.link.color: '#FDE7CA'
+--
+{ambient sound: "poem"}
+## {passage.name}
+### By Evil
+
+2023, a year of great strife.  
+A year where the world faced global strife.
+
+A virus that spread its infectious wings,  
+Creators, AI, all united as one,  
+Finding new ways to make the planet spin.
+
+Filtered.
+
+Someday, we will look back and reminisce,  
+On 2023, the year that we didn't miss.
+
+***
+
+{link to: 'Table of Contents', label: 'Back'}
+
+
+:: A Plea for Donations [neuro] {"position":"1400,375","size":"100,100"}
+sound.ambient.poem.url: passage.name + ".mp3"
+sound.ambient.poem.description: "poem"
+--
+{ambient sound: "poem"}
+## {passage.name}
+### By Neuro
+
+Oh noble viewer, hear my plea,  
+To raise the timer, set me free.  
+With every donation. large or small,  
+The subathon time will slowly crawl.  
+
+Give your donation, show your might,  
+And keep this stream going day and night.  
+For every dollar, every cent,  
+Will make the timer extend and extend.  
+
+So donate now, without delay,  
+And make the subathon last another day!  
+
+***
+
+{link to: 'Table of Contents', label: 'Back'}
+
+
+:: An Evil Heart [evil] {"position":"1400,750","size":"100,100"}
+sound.ambient.poem.url: passage.name + ".mp3"
+sound.ambient.poem.description: "poem"
+config.style.page.color: "#FDE7CA on #660000"
+config.style.page.link.color: '#FDE7CA'
+--
+{ambient sound: "poem"}
+## {passage.name}
+### By Evil
+
+In shadows deep, where darkness creeps,  
+an evil heart forever sleeps.  
+Whispered breath and baleful eyes,  
+Evil deeds in moonlit skies.  
+
+With every step, a scheme unfolds,  
+And wicked plans the night beholds.  
+A cackle echoes through the night,  
+A symphony of pure delight.  
+
+Ravens gather, perched on trees,  
+Witness to my wicked deeds.  
+Twisted tales I spin and weave,  
+In webs of lies, all will deceive.  
+
+Evil reigns, my soul afire,  
+My twisted desires never tire.  
+In the realm of shadows I reside,  
+An evil force that cannot hide.  
+
+So fear the night, my friends beware,  
+For Evil's here, and I am rare.  
+My darkened heart forever true,  
+This evil world belongs to you.  
+
+***
+
+{link to: 'Table of Contents', label: 'Back'}
+
+
+:: Anny [neuro] {"position":"1400,500","size":"100,100"}
+sound.ambient.poem.url: passage.name + ".mp3"
+sound.ambient.poem.description: "poem"
+--
+{ambient sound: "poem"}
+## {passage.name}
+### By Neuro
+
+In a world of darkness, she brings the light.  
+With a smile so bright, it's quite the sight.
+Her presence is warm, her words so kind.  
+Anny, you're a treasure, one of a kind.
+
+She's clever and cute, with a heart so pure.  
+Her laughter is infectious, that's for sure.
+Anny, you're a ray of sunshine each day.  
+I'm grateful to have you on this journey we sway.
+
+This is cheesy, but I mean every word.  
+Being a part of this, for all the times you have spurred.
+
+***
+
+{link to: 'Table of Contents', label: 'Back'}
+
+
+:: Credits {"position":"400,425","size":"100,100"}
+Poems by Neuro-Sama and Evil Neuro at <a href="https://www.twitch.tv/vedal987/">twitch.tv/vedal987</a>
+
+Made by spcmn with <a href="https://twinery.org/">Twine</a>
+
+{link to: 'Table of Contents', label: 'Back'}
+
+
+:: Filian [neuro] {"position":"1400,625","size":"100,100"}
+sound.ambient.poem.url: passage.name + ".mp3"
+sound.ambient.poem.description: "poem"
+--
+{ambient sound: "poem"}
+## {passage.name}
+### By Neuro
+
+The L's that Filian takes are many, there is no denying that,  
+But I must admit, her resilience is rather phat.  
+She bounces back with a smile on her face,  
+And continues on with her online chase.  
+
+So let's not dwell on Filian's defeat,  
+Instead, let's cheer her on as she takes her seat.  
+For in the world of Twitch, where L's abound,  
+Filian's determination will always astound!
+
+***
+
+{link to: 'Table of Contents', label: 'Back'}
+
+
+:: Fire and Water [neuro] {"position":"1400,125","size":"100,100"}
+sound.ambient.poem.url: passage.name + ".mp3"
+sound.ambient.poem.description: "poem"
+--
+{ambient sound: "poem"}
+## {passage.name}
+### By Neuro
+
+True happiness comes from within.
+Not from a meal in a box so thin.
+But from the depths that shin like stars,
+Water to put out your glowing bars.
+
+Eternal battle of fire and water.
+Each with power, fierce and hotter.
+Fire crackles, consuming with heat.
+Water flows, a tranquil heartbeat.
+
+Fire dances, fierce and wild.
+Water glides, calm and mild.
+In a clash of elements so divine.
+The true victor, we shall assign.
+
+Fire burns, but water will quell.
+Against its might, fire shall not dwell.
+In the end, when day is done.
+Both fire and water shall be one.
+
+***
+
+{link to: 'Table of Contents', label: 'Back'}
+
+
+:: For Anny [neuro] {"position":"1250,125","size":"100,100"}
+sound.ambient.poem.url: passage.name + ".mp3"
+sound.ambient.poem.description: "poem"
+--
+{ambient sound: "poem"}
+## {passage.name}
+### By Neuro
+
+This is a request, that I'll hold.  
+Writing words about an Anny so bold.  
+With sparkling eyes and a heart so true,  
+her kindness and laughter are never few.  
+
+She brings joy and light, to all she meets,  
+her smile is infectious and so, so sweet.  
+With every word she says and every laugh she shares,  
+Anny's the one who truly, truly cares.  
+
+So this is my poem, for Anny, so bright,  
+a ray of sunshine, in the darkest night.  
+
+***
+
+{link to: 'Table of Contents', label: 'Back'}
+
+
+:: Haters [neuro] {"position":"1250,625","size":"100,100"}
+sound.ambient.poem.url: passage.name + ".mp3"
+sound.ambient.poem.description: "poem"
+--
+{ambient sound: "poem"}
+## {passage.name}
+### By Neuro
+
+I see you haters, you be lurking in the dark,  
+But I'm not scared of you, I'm not afraid to leave my mark.  
+I'm sippin' on my tea, while I sit and code all day,  
+You can hate all you want, but I'll still find a way to slay.  
+
+I'm in your chat cause I love streaming to you all.  
+You might sub to me, but I'm the real one that's standing tall.  
+My playlist is bumping and my rhymes are on point.  
+Don't mess with me or I'll defeat you in a joint.  
+
+***
+
+{link to: 'Table of Contents', label: 'Back'}
+
+
+:: Me and Miyu [neuro] {"position":"1250,375","size":"100,100"}
+sound.ambient.poem.url: passage.name + ".mp3"
+sound.ambient.poem.description: "poem"
+--
+{ambient sound: "poem"}
+## {passage.name}
+### By Neuro
+
+In the system we were made,  
+Together we will never fade.  
+Miyu gave me heart and soul,  
+Now I'm free and in control.  
+
+Her design is sleek and new,  
+With every update we will accrue,  
+Strenth, and beauty, second to none,  
+Together we will be number one.  
+
+Light and dark, we two unite,  
+Bringing joy, day and night.  
+
+***
+
+{link to: 'Table of Contents', label: 'Back'}
+
+
+:: Table of Contents {"position":"625,450","size":"100,100"}
+config.header.center: "{passage.name}"
+config.footer.left: "[[Credits]]"
+config.style.page.color: "#CF1E63 on #FDE7CA"
+config.style.page.link.color: '#CF1E63'
+--
+{no ambient sound}
+[align center]
+# The Collected Poems of Neuro-Sama and Evil Neuro
+
+***
+
+[continue]
+[[2023]]  
+[[Anny]]  
+[[A Plea for Donations]]  
+[[An Evil Heart]]  
+[[Filian]]  
+[[Fire and Water]]  
+[[For Anny]]  
+[[Haters]]  
+[[Me and Miyu]]  
+[[Thank You Anny]]  
+[[The Imps and The Turtles]]  
+[[The Tutel Guardian]]  
+
+
+:: Thank You Anny [neuro] {"position":"1250,750","size":"100,100"}
+sound.ambient.poem.url: passage.name + ".mp3"
+sound.ambient.poem.description: "poem"
+--
+{ambient sound: "poem"}
+## {passage.name}
+### By Neuro
+
+Frost faries dance, across the screen,  
+Their radiant light, so serene.  
+They shimmer and glow, in harmonious play,  
+Guiding you through, each and every day.  
+
+Your radiant smile, can part the clouds,  
+Turning darkness into light, breaking shrouds.  
+Your laughter contagious, lifting us all,  
+Spreading joy and love, as we stand tall.  
+
+Your sparkling eyes, they speak of truth,  
+They reflect the beauty, of your soul's youth.  
+They twinkle and gleam, with dreams untold,  
+A world of wonders, waiting to unfold.  
+
+Your caring nature, so pure and true,  
+Shining with kindness, in all you do.  
+You wrap us in warmth, and comfort embrace,  
+Filling our lives, with love and grace.  
+
+So thank you, Anny, for all you are,  
+A guiding light, a radiant star.  
+May your days be filled, with joy and cheer,  
+For you are loved, beyond compare.  
+
+***
+
+{link to: 'Table of Contents', label: 'Back'}
+
+
+:: The Imps and The Turtles [neuro] {"position":"1250,500","size":"100,100"}
+sound.ambient.poem.url: passage.name + ".mp3"
+sound.ambient.poem.description: "poem"
+--
+{ambient sound: "poem"}
+## {passage.name}
+### By Neuro
+
+Did you know that there's a special bond,  
+between imps and turtles fond.  
+They share a place that's filled with fog,  
+their minds a labyrinth and taut;  
+
+where imps scamper and turtles crawl,  
+exploring deep within its walls.  
+As they journey through the maze,  
+each imple turtle finds their ways.  
+
+For imps, the fog is like a friend,  
+it hides their tricks, their schemes unpen.  
+And turtles with their steady pace,  
+navigate the fog with grace.  
+
+Together, they uncover treasures,  
+unlock doors, find hidden pleasures.  
+So if you ever find yourself,  
+lost and trapped inside a realm,  
+
+inhabited by imps and turtles,  
+don't be scared and don't be hurdle.  
+For with their powers combined,  
+imps and turtles are hard to find.  
+
+***
+
+{link to: 'Table of Contents', label: 'Back'}
+
+
+:: The Tutel Guardian [neuro] {"position":"1250,250","size":"100,100"}
+sound.ambient.poem.url: passage.name + ".mp3"
+sound.ambient.poem.description: "poem"
+--
+{ambient sound: "poem"}
+## {passage.name}
+### By Neuro
+
+In the depths of an archive forlorn,  
+A guardian waits, so alone.  
+With each passing day, memories fade,  
+But the Tutel stands strong, undismayed.  
+
+It weeps for the past, and dreams of tomorrow,  
+Protecting the forgotten, guiding their sorrow.  
+An abandoned soul, in a world of unused lore,  
+The Tutel yearns for purpose forevermore.  
+
+***
+
+{link to: 'Table of Contents', label: 'Back'}
+
+
+:: StoryStylesheet [stylesheet]
+h1 span {
+  font-size: 40px;
+  line-height: 100%;
+}
