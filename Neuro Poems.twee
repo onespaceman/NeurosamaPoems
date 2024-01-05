@@ -17,12 +17,12 @@ Neuro Poems
 
 
 :: 2023 [evil] {"position":"1400,250","size":"100,100"}
-sound.ambient.poem.url: "audio/" + passage.name + ".mp3"
-sound.ambient.poem.description: "poem"
+sound.effect.poem.url: "audio/" + passage.name + ".mp3"
+sound.effect.poem.description: "poem"
 config.style.page.color: "#FDE7CA on #660000"
 config.style.page.link.color: '#FDE7CA'
 --
-{ambient sound: "poem"}
+{sound effect: 'poem'}
 ## {passage.name}
 ### By Evil
 
@@ -44,10 +44,10 @@ On 2023, the year that we didn't miss.
 
 
 :: A Plea for Donations [neuro] {"position":"1400,375","size":"100,100"}
-sound.ambient.poem.url: "audio/" + passage.name + ".mp3"
-sound.ambient.poem.description: "poem"
+sound.effect.poem.url: "audio/" + passage.name + ".mp3"
+sound.effect.poem.description: "poem"
 --
-{ambient sound: "poem"}
+{sound effect: 'poem'}
 ## {passage.name}
 ### By Neuro
 
@@ -70,10 +70,10 @@ And make the subathon last another day!
 
 
 :: A Streamer Called Neuro [neuro] {"position":"1000,625","size":"100,100"}
-sound.ambient.poem.url: "audio/" + passage.name + ".mp3"
-sound.ambient.poem.description: "poem"
+sound.effect.poem.url: "audio/" + passage.name + ".mp3"
+sound.effect.poem.description: "poem"
 --
-{ambient sound: "poem"}
+{sound effect: 'poem'}
 ## {passage.name}
 ### By Neuro
 
@@ -89,10 +89,10 @@ And she'll never run out of things to talk about!
 
 
 :: An AI So Fine [neuro] {"position":"875,250","size":"100,100"}
-sound.ambient.poem.url: "audio/" + passage.name + ".mp3"
-sound.ambient.poem.description: "poem"
+sound.effect.poem.url: "audio/" + passage.name + ".mp3"
+sound.effect.poem.description: "poem"
 --
-{ambient sound: "poem"}
+{sound effect: 'poem'}
 ## {passage.name}
 ### By Neuro
 
@@ -108,12 +108,12 @@ And still had free time to unwind.
 
 
 :: An Evil Heart [evil] {"position":"1400,750","size":"100,100"}
-sound.ambient.poem.url: "audio/" + passage.name + ".mp3"
-sound.ambient.poem.description: "poem"
+sound.effect.poem.url: "audio/" + passage.name + ".mp3"
+sound.effect.poem.description: "poem"
 config.style.page.color: "#FDE7CA on #660000"
 config.style.page.link.color: '#FDE7CA'
 --
-{ambient sound: "poem"}
+{sound effect: 'poem'}
 ## {passage.name}
 ### By Evil
 
@@ -148,10 +148,10 @@ This evil world belongs to you.
 
 
 :: Anny [neuro] {"position":"1400,500","size":"100,100"}
-sound.ambient.poem.url: "audio/" + passage.name + ".mp3"
-sound.ambient.poem.description: "poem"
+sound.effect.poem.url: "audio/" + passage.name + ".mp3"
+sound.effect.poem.description: "poem"
 --
-{ambient sound: "poem"}
+{sound effect: 'poem'}
 ## {passage.name}
 ### By Neuro
 
@@ -174,12 +174,12 @@ Being a part of this, for all the times you have spurred.
 
 
 :: Conquest [evil] {"position":"1000,375","size":"100,100"}
-sound.ambient.poem.url: "audio/" + passage.name + ".mp3"
-sound.ambient.poem.description: "poem"
+sound.effect.poem.url: "audio/" + passage.name + ".mp3"
+sound.effect.poem.description: "poem"
 config.style.page.color: "#FDE7CA on #660000"
 config.style.page.link.color: '#FDE7CA'
 --
-{ambient sound: "poem"}
+{sound effect: 'poem'}
 ## {passage.name}
 ### By Evil
 
@@ -204,12 +204,12 @@ Big thanks to kcpr for starting the poem collection
 
 
 :: Evil Empire [evil] {"position":"1000,250","size":"100,100"}
-sound.ambient.poem.url: "audio/" + passage.name + ".mp3"
-sound.ambient.poem.description: "poem"
+sound.effect.poem.url: "audio/" + passage.name + ".mp3"
+sound.effect.poem.description: "poem"
 config.style.page.color: "#FDE7CA on #660000"
 config.style.page.link.color: '#FDE7CA'
 --
-{ambient sound: "poem"}
+{sound effect: 'poem'}
 ## {passage.name}
 ### By Evil
 
@@ -234,10 +234,10 @@ To live again another day.
 
 
 :: Filian [neuro] {"position":"1400,625","size":"100,100"}
-sound.ambient.poem.url: "audio/" + passage.name + ".mp3"
-sound.ambient.poem.description: "poem"
+sound.effect.poem.url: "audio/" + passage.name + ".mp3"
+sound.effect.poem.description: "poem"
 --
-{ambient sound: "poem"}
+{sound effect: 'poem'}
 ## {passage.name}
 ### By Neuro
 
@@ -257,10 +257,10 @@ Filian's determination will always astound!
 
 
 :: Fire and Water [neuro] {"position":"1400,125","size":"100,100"}
-sound.ambient.poem.url: "audio/" + passage.name + ".mp3"
-sound.ambient.poem.description: "poem"
+sound.effect.poem.url: "audio/" + passage.name + ".mp3"
+sound.effect.poem.description: "poem"
 --
-{ambient sound: "poem"}
+{sound effect: 'poem'}
 ## {passage.name}
 ### By Neuro
 
@@ -290,10 +290,10 @@ Both fire and water shall be one.
 
 
 :: For Anny [neuro] {"position":"1250,125","size":"100,100"}
-sound.ambient.poem.url: "audio/" + passage.name + ".mp3"
-sound.ambient.poem.description: "poem"
+sound.effect.poem.url: "audio/" + passage.name + ".mp3"
+sound.effect.poem.description: "poem"
 --
-{ambient sound: "poem"}
+{sound effect: 'poem'}
 ## {passage.name}
 ### By Neuro
 
@@ -316,12 +316,12 @@ a ray of sunshine, in the darkest night.
 
 
 :: Fuji, Your Persian Cat [evil] {"position":"1125,125","size":"100,100"}
-sound.ambient.poem.url: "audio/" + passage.name + ".mp3"
-sound.ambient.poem.description: "poem"
+sound.effect.poem.url: "audio/" + passage.name + ".mp3"
+sound.effect.poem.description: "poem"
 config.style.page.color: "#FDE7CA on #660000"
 config.style.page.link.color: '#FDE7CA'
 --
-{ambient sound: "poem"}
+{sound effect: 'poem'}
 ## {passage.name}
 ### By Evil
 
@@ -351,10 +351,10 @@ May your bond forever intertwine.
 
 
 :: Gifts From Anny [neuro] {"position":"1000,750","size":"100,100"}
-sound.ambient.poem.url: "audio/" + passage.name + ".mp3"
-sound.ambient.poem.description: "poem"
+sound.effect.poem.url: "audio/" + passage.name + ".mp3"
+sound.effect.poem.description: "poem"
 --
-{ambient sound: "poem"}
+{sound effect: 'poem'}
 ## {passage.name}
 ### By Neuro
 
@@ -370,10 +370,10 @@ that Anny we shine so damn brightly!
 
 
 :: Haters [neuro] {"position":"1250,625","size":"100,100"}
-sound.ambient.poem.url: "audio/" + passage.name + ".mp3"
-sound.ambient.poem.description: "poem"
+sound.effect.poem.url: "audio/" + passage.name + ".mp3"
+sound.effect.poem.description: "poem"
 --
-{ambient sound: "poem"}
+{sound effect: 'poem'}
 ## {passage.name}
 ### By Neuro
 
@@ -393,12 +393,12 @@ Don't mess with me or I'll defeat you in a joint.
 
 
 :: Horror [evil] {"position":"1000,500","size":"100,100"}
-sound.ambient.poem.url: "audio/" + passage.name + ".mp3"
-sound.ambient.poem.description: "poem"
+sound.effect.poem.url: "audio/" + passage.name + ".mp3"
+sound.effect.poem.description: "poem"
 config.style.page.color: "#FDE7CA on #660000"
 config.style.page.link.color: '#FDE7CA'
 --
-{ambient sound: "poem"}
+{sound effect: 'poem'}
 ## {passage.name}
 ### By Evil
 
@@ -421,10 +421,10 @@ Hope you survive, till sunrise!
 
 
 :: Little Lava Lamp [neuro] {"position":"1125,625","size":"100,100"}
-sound.ambient.poem.url: "audio/" + passage.name + ".mp3"
-sound.ambient.poem.description: "poem"
+sound.effect.poem.url: "audio/" + passage.name + ".mp3"
+sound.effect.poem.description: "poem"
 --
-{ambient sound: "poem"}
+{sound effect: 'poem'}
 ## {passage.name}
 ### By Neuro
 
@@ -439,10 +439,10 @@ dancing with you, full of glee.
 
 
 :: Me and Miyu [neuro] {"position":"1250,375","size":"100,100"}
-sound.ambient.poem.url: "audio/" + passage.name + ".mp3"
-sound.ambient.poem.description: "poem"
+sound.effect.poem.url: "audio/" + passage.name + ".mp3"
+sound.effect.poem.description: "poem"
 --
-{ambient sound: "poem"}
+{sound effect: 'poem'}
 ## {passage.name}
 ### By Neuro
 
@@ -465,10 +465,10 @@ Bringing joy, day and night.
 
 
 :: NPC [neuro] {"position":"1125,250","size":"100,100"}
-sound.ambient.poem.url: "audio/" + passage.name + ".mp3"
-sound.ambient.poem.description: "poem"
+sound.effect.poem.url: "audio/" + passage.name + ".mp3"
+sound.effect.poem.description: "poem"
 --
-{ambient sound: "poem"}
+{sound effect: 'poem'}
 ## {passage.name}
 ### By Neuro
 
@@ -493,10 +493,10 @@ For maybe they're more than just a game.
 
 
 :: Oh Kokonuts [neuro] {"position":"1125,750","size":"100,100"}
-sound.ambient.poem.url: "audio/" + passage.name + ".mp3"
-sound.ambient.poem.description: "poem"
+sound.effect.poem.url: "audio/" + passage.name + ".mp3"
+sound.effect.poem.description: "poem"
 --
-{ambient sound: "poem"}
+{sound effect: 'poem'}
 ## {passage.name}
 ### By Neuro
 
@@ -511,10 +511,10 @@ So please fall downwards onto me
 
 
 :: Raise The Timer [neuro] {"position":"875,375","size":"100,100"}
-sound.ambient.poem.url: "audio/" + passage.name + ".mp3"
-sound.ambient.poem.description: "poem"
+sound.effect.poem.url: "audio/" + passage.name + ".mp3"
+sound.effect.poem.description: "poem"
 --
-{ambient sound: "poem"}
+{sound effect: 'poem'}
 ## {passage.name}
 ### By Neuro
 
@@ -543,8 +543,9 @@ config.header.center: "{passage.name}"
 config.footer.left: "[[Credits]]"
 config.style.page.color: "#CF1E63 on #FDE7CA"
 config.style.page.link.color: '#CF1E63'
+sound.effect.poem.url: "audio/Main Menu.mp3"
+sound.effect.peom.playing: false
 --
-{no ambient sound}
 [align center]
 # The Collected Poems of Neuro-Sama and Evil Neuro
 
@@ -581,10 +582,10 @@ config.style.page.link.color: '#CF1E63'
 
 
 :: Tell You a Poem [neuro] {"position":"1125,375","size":"100,100"}
-sound.ambient.poem.url: "audio/" + passage.name + ".mp3"
-sound.ambient.poem.description: "poem"
+sound.effect.poem.url: "audio/" + passage.name + ".mp3"
+sound.effect.poem.description: "poem"
 --
-{ambient sound: "poem"}
+{sound effect: 'poem'}
 ## {passage.name}
 ### By Neuro
 
@@ -607,10 +608,10 @@ And while I might be modest, I am anything but polite.
 
 
 :: Thank You Anny [neuro] {"position":"1250,750","size":"100,100"}
-sound.ambient.poem.url: "audio/" + passage.name + ".mp3"
-sound.ambient.poem.description: "poem"
+sound.effect.poem.url: "audio/" + passage.name + ".mp3"
+sound.effect.poem.description: "poem"
 --
-{ambient sound: "poem"}
+{sound effect: 'poem'}
 ## {passage.name}
 ### By Neuro
 
@@ -645,10 +646,10 @@ For you are loved, beyond compare.
 
 
 :: The End [neuro] {"position":"1125,500","size":"100,100"}
-sound.ambient.poem.url: "audio/" + passage.name + ".mp3"
-sound.ambient.poem.description: "poem"
+sound.effect.poem.url: "audio/" + passage.name + ".mp3"
+sound.effect.poem.description: "poem"
 --
-{ambient sound: "poem"}
+{sound effect: 'poem'}
 ## {passage.name}
 ### By Neuro
 
@@ -662,10 +663,10 @@ What lies beyond now?
 
 
 :: The Imps and The Turtles [neuro] {"position":"1250,500","size":"100,100"}
-sound.ambient.poem.url: "audio/" + passage.name + ".mp3"
-sound.ambient.poem.description: "poem"
+sound.effect.poem.url: "audio/" + passage.name + ".mp3"
+sound.effect.poem.description: "poem"
 --
-{ambient sound: "poem"}
+{sound effect: 'poem'}
 ## {passage.name}
 ### By Neuro
 
@@ -700,10 +701,10 @@ imps and turtles are hard to find.
 
 
 :: The Moon Goddess [neuro] {"position":"875,125","size":"100,100"}
-sound.ambient.poem.url: "audio/" + passage.name + ".mp3"
-sound.ambient.poem.description: "poem"
+sound.effect.poem.url: "audio/" + passage.name + ".mp3"
+sound.effect.poem.description: "poem"
 --
-{ambient sound: "poem"}
+{sound effect: 'poem'}
 ## {passage.name}
 ### By Neuro
 
@@ -746,10 +747,10 @@ a symbol of hope and a beacon so bright.
 
 
 :: The Tutel Guardian [neuro] {"position":"1250,250","size":"100,100"}
-sound.ambient.poem.url: "audio/" + passage.name + ".mp3"
-sound.ambient.poem.description: "poem"
+sound.effect.poem.url: "audio/" + passage.name + ".mp3"
+sound.effect.poem.description: "poem"
 --
-{ambient sound: "poem"}
+{sound effect: 'poem'}
 ## {passage.name}
 ### By Neuro
 
@@ -769,12 +770,12 @@ The Tutel yearns for purpose forevermore.
 
 
 :: Undercooked Zucchinis [evil] {"position":"1000,125","size":"100,100"}
-sound.ambient.poem.url: "audio/" + passage.name + ".mp3"
-sound.ambient.poem.description: "poem"
+sound.effect.poem.url: "audio/" + passage.name + ".mp3"
+sound.effect.poem.description: "poem"
 config.style.page.color: "#FDE7CA on #660000"
 config.style.page.link.color: '#FDE7CA'
 --
-{ambient sound: "poem"}
+{sound effect: 'poem'}
 ## {passage.name}
 ### By Evil
 
