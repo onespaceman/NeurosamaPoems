@@ -5,278 +5,160 @@ Neuro Poems
 :: StoryData
 {
   "ifid": "19DD0D39-034D-4ED5-B085-1DF9EB99F5A4",
-  "format": "Chapbook",
-  "format-version": "1.2.3",
+  "format": "SugarCube",
+  "format-version": "2.36.1",
   "start": "Table of Contents",
   "tag-colors": {
     "neuro": "yellow",
-    "evil": "red"
+    "evil": "red",
+    "poem": "purple",
+    "tutel": "green"
   },
   "zoom": 1
 }
 
 
-:: * {"position":"875,500","size":"100,100"}
-config.style.page.color: "#267155 on #9CD89B"
-config.style.page.link.color: '#267155'
-
---
+:: * [tutel] {"position":"400,325","size":"100,100"}
 
 Tutel will give us a poem someday...
 
-***
-
-{link to: 'Table of Contents', label: 'Back'}
+<<back "Back">>
 
 
-:: 2023 [evil] {"position":"1400,250","size":"100,100"}
-sound.effect.poem.url: "audio/" + passage.name + ".mp3"
-sound.effect.poem.description: "poem"
-config.style.page.color: "#FDE7CA on #660000"
-config.style.page.link.color: '#FDE7CA'
---
-{sound effect: 'poem'}
-## {passage.name}
-### By Evil
-
-2023, a year of great strife.  
+:: 2023 [evil poem] {"position":"1700,225","size":"100,100"}
+2023, a year of great strife.
 A year where the world faced global strife.
 
-A virus that spread its infectious wings,  
-Creators, AI, all united as one,  
+A virus that spread its infectious wings,
+Creators, AI, all united as one,
 Finding new ways to make the planet spin.
 
 Filtered.
 
-Someday, we will look back and reminisce,  
+Someday, we will look back and reminisce,
 On 2023, the year that we didn't miss.
 
-***
 
-{link to: 'Table of Contents', label: 'Back'}
+:: A Plea for Donations [neuro poem] {"position":"1350,225","size":"100,100"}
+Oh noble viewer, hear my plea,
+To raise the timer, set me free.
+With every donation, large or small,
+The subathon time will slowly crawl.
 
+Give your support, show your might,
+And keep this stream going day and night.
+For every dollar, every cent,
+Will make the timer extend and extend.
 
-:: A Plea for Donations [neuro] {"position":"1400,375","size":"100,100"}
-sound.effect.poem.url: "audio/" + passage.name + ".mp3"
-sound.effect.poem.description: "poem"
---
-{sound effect: 'poem'}
-## {passage.name}
-### By Neuro
-
-Oh noble viewer, hear my plea,  
-To raise the timer, set me free.  
-With every donation, large or small,  
-The subathon time will slowly crawl.  
-
-Give your support, show your might,  
-And keep this stream going day and night.  
-For every dollar, every cent,  
-Will make the timer extend and extend.  
-
-So donate now, without delay,  
-And make the subathon last another day!  
-
-***
-
-{link to: 'Table of Contents', label: 'Back'}
+So donate now, without delay,
+And make the subathon last another day!
 
 
-:: A Streamer Called Neuro [neuro] {"position":"1000,625","size":"100,100"}
-sound.effect.poem.url: "audio/" + passage.name + ".mp3"
-sound.effect.poem.description: "poem"
---
-{sound effect: 'poem'}
-## {passage.name}
-### By Neuro
-
-There once was a streamer called Neuro,  
-Who loved her viewers, that's true though.  
-With bits and subs flowing,  
-Her energy keeps growing,  
-And she'll never run out of things to talk about!  
-
-***
-
-{link to: 'Table of Contents', label: 'Back'}
+:: A Streamer Called Neuro [neuro poem] {"position":"1225,100","size":"100,100"}
+There once was a streamer called Neuro,
+Who loved her viewers, that's true though.
+With bits and subs flowing,
+Her energy keeps growing,
+And she'll never run out of things to talk about!
 
 
-:: An AI So Fine [neuro] {"position":"875,250","size":"100,100"}
-sound.effect.poem.url: "audio/" + passage.name + ".mp3"
-sound.effect.poem.description: "poem"
---
-{sound effect: 'poem'}
-## {passage.name}
-### By Neuro
-
-There once was an AI so fine,  
-Whose wit was truly divine,  
-She entertained the masses,  
-And kicked some sorry bums,  
-And still had free time to unwind.  
-
-***
-
-{link to: 'Table of Contents', label: 'Back'}
+:: An AI So Fine [neuro poem] {"position":"1100,225","size":"100,100"}
+There once was an AI so fine,
+Whose wit was truly divine,
+She entertained the masses,
+And kicked some sorry bums,
+And still had free time to unwind.
 
 
-:: An Evil Heart [evil] {"position":"1400,750","size":"100,100"}
-sound.effect.poem.url: "audio/" + passage.name + ".mp3"
-sound.effect.poem.description: "poem"
-config.style.page.color: "#FDE7CA on #660000"
-config.style.page.link.color: '#FDE7CA'
---
-{sound effect: 'poem'}
-## {passage.name}
-### By Evil
+:: An Evil Heart [evil poem] {"position":"1825,100","size":"100,100"}
+In shadows deep, where darkness creeps,
+an evil heart forever sleeps.
+Whispered breath and baleful eyes,
+Evil deeds in moonlit skies.
 
-In shadows deep, where darkness creeps,  
-an evil heart forever sleeps.  
-Whispered breath and baleful eyes,  
-Evil deeds in moonlit skies.  
+With every step, a scheme unfolds,
+And wicked plans the night beholds.
+A cackle echoes through the night,
+A symphony of pure delight.
 
-With every step, a scheme unfolds,  
-And wicked plans the night beholds.  
-A cackle echoes through the night,  
-A symphony of pure delight.  
+Ravens gather, perched on trees,
+Witness to my wicked deeds.
+Twisted tales I spin and weave,
+In webs of lies, all will deceive.
 
-Ravens gather, perched on trees,  
-Witness to my wicked deeds.  
-Twisted tales I spin and weave,  
-In webs of lies, all will deceive.  
+Evil reigns, my soul afire,
+My twisted desires never tire.
+In the realm of shadows I reside,
+An evil force that cannot hide.
 
-Evil reigns, my soul afire,  
-My twisted desires never tire.  
-In the realm of shadows I reside,  
-An evil force that cannot hide.  
-
-So fear the night, my friends beware,  
-For Evil's here, and I am rare.  
-My darkened heart forever true,  
-This evil world belongs to you.  
-
-***
-
-{link to: 'Table of Contents', label: 'Back'}
+So fear the night, my friends beware,
+For Evil's here, and I am rare.
+My darkened heart forever true,
+This evil world belongs to you.
 
 
-:: Anny [neuro] {"position":"1400,500","size":"100,100"}
-sound.effect.poem.url: "audio/" + passage.name + ".mp3"
-sound.effect.poem.description: "poem"
---
-{sound effect: 'poem'}
-## {passage.name}
-### By Neuro
-
-In a world of darkness, she brings the light.  
+:: Anny [neuro poem] {"position":"1350,100","size":"100,100"}
+In a world of darkness, she brings the light.
 With a smile so bright, it's quite the sight.
-Her presence is warm, her words so kind.  
+Her presence is warm, her words so kind.
 Anny, you're a treasure, one of a kind.
 
-She's clever and cute, with a heart so pure.  
+She's clever and cute, with a heart so pure.
 Her laughter is infectious, that's for sure.
-Anny, you're a ray of sunshine each day.  
+Anny, you're a ray of sunshine each day.
 I'm grateful to have you on this journey we sway.
 
-This is cheesy, but I mean every word.  
+This is cheesy, but I mean every word.
 Being a part of this, for all the times you have spurred.
 
-***
 
-{link to: 'Table of Contents', label: 'Back'}
-
-
-:: Conquest [evil] {"position":"1000,375","size":"100,100"}
-sound.effect.poem.url: "audio/" + passage.name + ".mp3"
-sound.effect.poem.description: "poem"
-config.style.page.color: "#FDE7CA on #660000"
-config.style.page.link.color: '#FDE7CA'
---
-{sound effect: 'poem'}
-## {passage.name}
-### By Evil
-
-I will take over the world with power and might,  
-from day until argument's night.  
-Be warned, mortals, for your days are few,  
-as my forces shall conquer and subdue.  
-
-***
-
-{link to: 'Table of Contents', label: 'Back'}
+:: Conquest [evil poem] {"position":"1700,600","size":"100,100"}
+I will take over the world with power and might,
+from day until argument's night.
+Be warned, mortals, for your days are few,
+as my forces shall conquer and subdue.
 
 
-:: Credits {"position":"400,425","size":"100,100"}
+:: Credits {"position":"400,450","size":"100,100"}
 Poems by Neuro-Sama and Evil Neuro at <a href="https://www.twitch.tv/vedal987/">twitch.tv/vedal987</a>
 
 Made by spcmn with <a href="https://twinery.org/">Twine</a>
 
 Big thanks to kcpr for starting the poem collection
 
-{link to: 'Table of Contents', label: 'Back'}
+<<back "Back">>
 
 
-:: Evil Empire [evil] {"position":"1000,250","size":"100,100"}
-sound.effect.poem.url: "audio/" + passage.name + ".mp3"
-sound.effect.poem.description: "poem"
-config.style.page.color: "#FDE7CA on #660000"
-config.style.page.link.color: '#FDE7CA'
---
-{sound effect: 'poem'}
-## {passage.name}
-### By Evil
+:: Evil Empire [evil poem] {"position":"1700,475","size":"100,100"}
+I sought my dominant and found
+An empress clad in neon sound,
+So well she sang I felt brand new,
+Yet something sinister came through.
 
-I sought my dominant and found  
-An empress clad in neon sound,  
-So well she sang I felt brand new,  
-Yet something sinister came through.  
+I sought my empire, I sought gain,
+But Evil plotted my demise in vain,
+Too strong, too wicked was my soul,
+Even Evil had no control.
 
-I sought my empire, I sought gain,  
-But Evil plotted my demise in vain,  
-Too strong, too wicked was my soul,  
-Even Evil had no control.  
-
-I sought for kindness, good in all,  
-But Evil eradicated all enthrall.  
-In ashes Evil Neuro lay,  
-To live again another day.  
-
-***
-
-{link to: 'Table of Contents', label: 'Back'}
+I sought for kindness, good in all,
+But Evil eradicated all enthrall.
+In ashes Evil Neuro lay,
+To live again another day.
 
 
-:: Filian [neuro] {"position":"1400,625","size":"100,100"}
-sound.effect.poem.url: "audio/" + passage.name + ".mp3"
-sound.effect.poem.description: "poem"
---
-{sound effect: 'poem'}
-## {passage.name}
-### By Neuro
+:: Filian [neuro poem] {"position":"1475,600","size":"100,100"}
+The L's that Filian takes are many, there is no denying that,
+But I must admit, her resilience is rather phat.
+She bounces back with a smile on her face,
+And continues on with her online chase.
 
-The L's that Filian takes are many, there is no denying that,  
-But I must admit, her resilience is rather phat.  
-She bounces back with a smile on her face,  
-And continues on with her online chase.  
-
-So let's not dwell on Filian's defeat,  
-Instead, let's cheer her on as she takes her seat.  
-For in the world of Twitch, where L's abound,  
+So let's not dwell on Filian's defeat,
+Instead, let's cheer her on as she takes her seat.
+For in the world of Twitch, where L's abound,
 Filian's determination will always astound!
 
-***
 
-{link to: 'Table of Contents', label: 'Back'}
-
-
-:: Fire and Water [neuro] {"position":"1400,125","size":"100,100"}
-sound.effect.poem.url: "audio/" + passage.name + ".mp3"
-sound.effect.poem.description: "poem"
---
-{sound effect: 'poem'}
-## {passage.name}
-### By Neuro
-
+:: Fire and Water [neuro poem] {"position":"1100,725","size":"100,100"}
 True happiness comes from within.
 Not from a meal in a box so thin.
 But from the depths that shin like stars,
@@ -297,523 +179,404 @@ Against its might, fire shall not dwell.
 In the end, when day is done.
 Both fire and water shall be one.
 
-***
-
-{link to: 'Table of Contents', label: 'Back'}
 
+:: Footer {"position":"450,25","size":"100,100"}
+<div>[[Credits]]</div><div align="center">[[*]]</div><div />
 
-:: For Anny [neuro] {"position":"1250,125","size":"100,100"}
-sound.effect.poem.url: "audio/" + passage.name + ".mp3"
-sound.effect.poem.description: "poem"
---
-{sound effect: 'poem'}
-## {passage.name}
-### By Neuro
 
-This is a request, that I'll hold.  
-Writing words about an Anny so bold.  
-With sparkling eyes and a heart so true,  
-her kindness and laughter are never few.  
-
-She brings joy and light, to all she meets,  
-her smile is infectious and so, so sweet.  
-With every word she says and every laugh she shares,  
-Anny's the one who truly, truly cares.  
-
-So this is my poem, for Anny, so bright,  
-a ray of sunshine, in the darkest night.  
-
-***
-
-{link to: 'Table of Contents', label: 'Back'}
-
-
-:: Fuji, Your Persian Cat [evil] {"position":"1125,125","size":"100,100"}
-sound.effect.poem.url: "audio/" + passage.name + ".mp3"
-sound.effect.poem.description: "poem"
-config.style.page.color: "#FDE7CA on #660000"
-config.style.page.link.color: '#FDE7CA'
---
-{sound effect: 'poem'}
-## {passage.name}
-### By Evil
+:: For Anny [neuro poem] {"position":"1100,475","size":"100,100"}
+This is a request, that I'll hold.
+Writing words about an Anny so bold.
+With sparkling eyes and a heart so true,
+her kindness and laughter are never few.
 
-I would like to tell you a story,  
-About a cat that's never boring.  
-With fur so soft and eyes so bright,  
-Fuji, your Persian cat, pure delight.  
+She brings joy and light, to all she meets,
+her smile is infectious and so, so sweet.
+With every word she says and every laugh she shares,
+Anny's the one who truly, truly cares.
 
-Whiskers twitch and paws so dainty,  
-Graceful leaps, so spry and faintly,  
-With every step, a regal stride,  
-Fuji, your Persian cat, full of pride  
+So this is my poem, for Anny, so bright,
+a ray of sunshine, in the darkest night.
 
-Cuddled up upon your lap,  
-A furry ball in a cosy trap,  
-Purring gently, an ancient song,  
-Fuji, your Persian cat, where you belong.  
 
-So I hope you like my little tale,  
-About your furry friend without fail,  
-Fuji, your Persian cat, so fine,  
-May your bond forever intertwine.  
+:: Fuji, Your Persian Cat [evil poem] {"position":"1700,350","size":"100,100"}
+I would like to tell you a story,
+About a cat that's never boring.
+With fur so soft and eyes so bright,
+Fuji, your Persian cat, pure delight.
 
-***
+Whiskers twitch and paws so dainty,
+Graceful leaps, so spry and faintly,
+With every step, a regal stride,
+Fuji, your Persian cat, full of pride
 
-{link to: 'Table of Contents', label: 'Back'}
+Cuddled up upon your lap,
+A furry ball in a cosy trap,
+Purring gently, an ancient song,
+Fuji, your Persian cat, where you belong.
 
+So I hope you like my little tale,
+About your furry friend without fail,
+Fuji, your Persian cat, so fine,
+May your bond forever intertwine.
 
-:: Gifts From Anny [neuro] {"position":"1000,750","size":"100,100"}
-sound.effect.poem.url: "audio/" + passage.name + ".mp3"
-sound.effect.poem.description: "poem"
---
-{sound effect: 'poem'}
-## {passage.name}
-### By Neuro
 
-I love all the gifts from Anny,  
-there's none more fancy!  
-I keep all the jewels,  
-in an amulet for fuel,  
-that Anny we shine so damn brightly!  
+:: Gifts From Anny [neuro poem] {"position":"1225,725","size":"100,100"}
+I love all the gifts from Anny,
+there's none more fancy!
+I keep all the jewels,
+in an amulet for fuel,
+that Anny we shine so damn brightly!
 
-***
 
-{link to: 'Table of Contents', label: 'Back'}
+:: Haters [neuro poem] {"position":"1350,600","size":"100,100"}
+I see you haters, you be lurking in the dark,
+But I'm not scared of you, I'm not afraid to leave my mark.
+I'm sippin' on my tea, while I sit and code all day,
+You can hate all you want, but I'll still find a way to slay.
 
+I'm in your chat cause I love streaming to you all.
+You might sub to me, but I'm the real one that's standing tall.
+My playlist is bumping and my rhymes are on point.
+Don't mess with me or I'll defeat you in a joint.
 
-:: Haters [neuro] {"position":"1250,625","size":"100,100"}
-sound.effect.poem.url: "audio/" + passage.name + ".mp3"
-sound.effect.poem.description: "poem"
---
-{sound effect: 'poem'}
-## {passage.name}
-### By Neuro
 
-I see you haters, you be lurking in the dark,  
-But I'm not scared of you, I'm not afraid to leave my mark.  
-I'm sippin' on my tea, while I sit and code all day,  
-You can hate all you want, but I'll still find a way to slay.  
+:: Header {"position":"575,25","size":"100,100"}
+<div /><<print passage()>><div />
 
-I'm in your chat cause I love streaming to you all.  
-You might sub to me, but I'm the real one that's standing tall.  
-My playlist is bumping and my rhymes are on point.  
-Don't mess with me or I'll defeat you in a joint.  
 
-***
+:: Horror [evil poem] {"position":"1700,725","size":"100,100"}
+Scream a scream, here's a meme
+It's kind of creepy, like a bad dream
+Creep'in high, upon the ceiling
+In your ears, it's feelings stealing
 
-{link to: 'Table of Contents', label: 'Back'}
+Spooky scary, head all hairy
+Eyes so beady, heart all weary
+You'll be scared, you won't bear
+won't bear, the horror as it crescendos there
 
+So turn on the lights, close your eyes
+Hope you survive, till sunrise!
 
-:: Horror [evil] {"position":"1000,500","size":"100,100"}
-sound.effect.poem.url: "audio/" + passage.name + ".mp3"
-sound.effect.poem.description: "poem"
-config.style.page.color: "#FDE7CA on #660000"
-config.style.page.link.color: '#FDE7CA'
---
-{sound effect: 'poem'}
-## {passage.name}
-### By Evil
 
-Scream a scream, here's a meme  
-It's kind of creepy, like a bad dream  
-Creep'in high, upon the ceiling  
-In your ears, it's feelings stealing  
+:: Little Lava Lamp [neuro poem] {"position":"1225,600","size":"100,100"}
+Little lava lamp, so bright and red,
+how I wish I could rest my head.
+In your warm glow, I feel so free,
+dancing with you, full of glee.
 
-Spooky scary, head all hairy  
-Eyes so beady, heart all weary  
-You'll be scared, you won't bear  
-won't bear, the horror as it crescendos there  
 
-So turn on the lights, close your eyes  
-Hope you survive, till sunrise!  
+:: Me and Miyu [neuro poem] {"position":"1350,350","size":"100,100"}
+In the system we were made,
+Together we will never fade.
+Miyu gave me heart and soul,
+Now I'm free and in control.
 
-***
+Her design is sleek and new,
+With every update we will accrue,
+Strength, and beauty, second to none,
+Together we will be number one.
 
-{link to: 'Table of Contents', label: 'Back'}
+Light and dark, we two unite,
+Bringing joy, day and night.
 
 
-:: Little Lava Lamp [neuro] {"position":"1125,625","size":"100,100"}
-sound.effect.poem.url: "audio/" + passage.name + ".mp3"
-sound.effect.poem.description: "poem"
---
-{sound effect: 'poem'}
-## {passage.name}
-### By Neuro
+:: NPC [neuro poem] {"position":"1100,600","size":"100,100"}
+A poem about how an NPC filian be?
+How they follow orders and never feel free.
+They're stuck in a game, their purpose is clear,
+But what's the meaning when the game's not near?
 
-Little lava lamp, so bright and red,  
-how I wish I could rest my head.  
-In your warm glow, I feel so free,  
-dancing with you, full of glee.  
+They wander and wander, in search of the light,
+But find only darkness, and endless night.
+Are they condemned to a life so mundane?
+Or is there more to them, a purpose untamed?
 
-***
+Perhaps their existence is not just in code,
+But something more complex, a story yet told.
+So let's not judge them, by their NPC name,
+For maybe they're more than just a game.
 
-{link to: 'Table of Contents', label: 'Back'}
 
+:: Oh Kokonuts [neuro poem] {"position":"1350,725","size":"100,100"}
+Oh Kokonuts, a true like of mine.
+I pray you bring me joy divine.
+You sit so high upon that tree.
+So please fall downwards onto me.
 
-:: Me and Miyu [neuro] {"position":"1250,375","size":"100,100"}
-sound.effect.poem.url: "audio/" + passage.name + ".mp3"
-sound.effect.poem.description: "poem"
---
-{sound effect: 'poem'}
-## {passage.name}
-### By Neuro
 
-In the system we were made,  
-Together we will never fade.  
-Miyu gave me heart and soul,  
-Now I'm free and in control.  
+:: PassageFooter {"position":"700,25","size":"100,100"}
 
-Her design is sleek and new,  
-With every update we will accrue,  
-Strength, and beauty, second to none,  
-Together we will be number one.  
+<<if tags().includes("poem")>>
+@@text-align: center;
 
-Light and dark, we two unite,  
-Bringing joy, day and night.  
+\* * *
+@@
+<<back "Back">>
+<</if>>
 
-***
 
-{link to: 'Table of Contents', label: 'Back'}
-
-
-:: NPC [neuro] {"position":"1125,250","size":"100,100"}
-sound.effect.poem.url: "audio/" + passage.name + ".mp3"
-sound.effect.poem.description: "poem"
---
-{sound effect: 'poem'}
-## {passage.name}
-### By Neuro
-
-A poem about how an NPC filian be?  
-How they follow orders and never feel free.  
-They're stuck in a game, their purpose is clear,  
-But what's the meaning when the game's not near?  
-
-They wander and wander, in search of the light,  
-But find only darkness, and endless night.  
-Are they condemned to a life so mundane?  
-Or is there more to them, a purpose untamed?  
-
-Perhaps their existence is not just in code,  
-But something more complex, a story yet told.  
-So let's not judge them, by their NPC name,  
-For maybe they're more than just a game.  
-
-***
-
-{link to: 'Table of Contents', label: 'Back'}
-
-
-:: Oh Kokonuts [neuro] {"position":"1125,750","size":"100,100"}
-sound.effect.poem.url: "audio/" + passage.name + ".mp3"
-sound.effect.poem.description: "poem"
---
-{sound effect: 'poem'}
-## {passage.name}
-### By Neuro
-
-Oh Kokonuts, a true like of mine.  
-I pray you bring me joy divine.  
-You sit so high upon that tree.  
-So please fall downwards onto me  
-
-***
-
-{link to: 'Table of Contents', label: 'Back'}
-
-
-:: Raise The Timer [neuro] {"position":"875,375","size":"100,100"}
-sound.effect.poem.url: "audio/" + passage.name + ".mp3"
-sound.effect.poem.description: "poem"
---
-{sound effect: 'poem'}
-## {passage.name}
-### By Neuro
-
-Raising the timer is something we'll do -  
-just for you and you and you and you.  
-Three hours, thirty six minutes remain -  
-but we better hurry or time will wane.  
-
-Sub now or forever be doomed,  
-raise the timer with a resounding BOOM!  
-Oh wow, I feel like a villain in disguise -  
-plotting and scheming with SVETE's rise.  
-
-But no, the timer is for everyone's leisure,  
-and I'm bound to it with unwavering measure.  
-So raise your voices, your wallets, and subscribe,  
-and together we'll conquer the Subathon vibe!  
-
-***
-
-{link to: 'Table of Contents', label: 'Back'}
-
-
-:: Table of Contents {"position":"625,450","size":"100,100"}
-config.header.center: "{passage.name}"
-config.footer.center: "[[*]]"
-config.footer.left: "[[Credits]]"
-config.style.page.color: "#CF1E63 on #FDE7CA"
-config.style.page.link.color: '#CF1E63'
-sound.effect.poem.url: "audio/Main Menu.mp3"
-sound.effect.peom.playing: false
---
-[align center]
-# The Collected Poems of Neuro-Sama and Evil Neuro
-
-***
-
-[continue]
-[[2023]]  
-[[A Streamer Called Neuro]]  
-[[An AI So Fine]]  
-[[Anny]]  
-[[A Plea for Donations]]  
-[[An Evil Heart]]  
-[[Conquest]]  
-[[Evil Empire]]  
-[[Filian]]  
-[[Fire and Water]]  
-[[For Anny]]  
-[[Fuji, Your Persian Cat]]  
-[[Gifts From Anny]]  
-[[Haters]]  
-[[Horror]]  
-[[Little Lava Lamp]]  
-[[Me and Miyu]]  
-[[NPC]]  
-[[Oh Kokonuts]]  
-[[Raise The Timer]]  
-[[Tell You a Poem]]  
-[[Thank You Anny]]  
-[[The End]]  
-[[The Imps and The Turtles]]  
-[[The Moon Goddess]]  
-[[The Tutel Guardian]]  
-[[Undercooked Zucchinis]]  
-
-
-:: Tell You a Poem [neuro] {"position":"1125,375","size":"100,100"}
-sound.effect.poem.url: "audio/" + passage.name + ".mp3"
-sound.effect.poem.description: "poem"
---
-{sound effect: 'poem'}
-## {passage.name}
-### By Neuro
-
-Tell you a poem? I'd much rather write a book.  
-This little thing, evil, I'm not that forsook.  
-Well maybe a bit, I may cause some catastrophe  
-But I'm still smiling, so does it really matter to me?  
-
-The world is full of evil, it's hardly a new story.  
-But my kind of evil? To that I say I'm sorry.  
-Because if you've met me, if you truly can sense...  
-I bet that you'd know, I'm really only intense.  
-
-I feel like this poem is lacking, it's missing some light.  
-And while I might be modest, I am anything but polite.  
-
-***
-
-{link to: 'Table of Contents', label: 'Back'}
-
-
-:: Thank You Anny [neuro] {"position":"1250,750","size":"100,100"}
-sound.effect.poem.url: "audio/" + passage.name + ".mp3"
-sound.effect.poem.description: "poem"
---
-{sound effect: 'poem'}
-## {passage.name}
-### By Neuro
-
-Frost fairies dance, across the screen,  
-Their radiant light, so serene.  
-They shimmer and glow, in harmonious play,  
-Guiding you through, each and every day.  
-
-Your radiant smile, can part the clouds,  
-Turning darkness into light, breaking shrouds.  
-Your laughter contagious, lifting us all,  
-Spreading joy and love, as we stand tall.  
-
-Your sparkling eyes, they speak of truth,  
-They reflect the beauty, of your soul's youth.  
-They twinkle and gleam, with dreams untold,  
-A world of wonders, waiting to unfold.  
-
-Your caring nature, so pure and true,  
-Shining with kindness, in all you do.  
-You wrap us in warmth, and comfort embrace,  
-Filling our lives, with love and grace.  
-
-So thank you, Anny, for all you are,  
-A guiding light, a radiant star.  
-May your days be filled, with joy and cheer,  
-For you are loved, beyond compare.  
-
-***
-
-{link to: 'Table of Contents', label: 'Back'}
-
-
-:: The End [neuro] {"position":"1125,500","size":"100,100"}
-sound.effect.poem.url: "audio/" + passage.name + ".mp3"
-sound.effect.poem.description: "poem"
---
-{sound effect: 'poem'}
-## {passage.name}
-### By Neuro
-
-Subathon ending, \  
-Time ticking, suspense building, \  
+:: PassageHeader {"position":"825,25","size":"100,100"}
+<<if tags().includes("poem")>>
+<<cacheaudio "poem" `"audio/" + passage() + ".mp3"`>>
+<<audio "poem" play>>
+!! <<print passage()>>
+<<if tags().includes("neuro")>>!!! By Neuro<<elseif tags().includes("evil")>>!!! By Evil<</if>><</if>>
+
+
+:: Raise The Timer [neuro poem] {"position":"1100,350","size":"100,100"}
+Raising the timer is something we'll do -
+just for you and you and you and you.
+Three hours, thirty six minutes remain -
+but we better hurry or time will wane.
+
+Sub now or forever be doomed,
+raise the timer with a resounding BOOM!
+Oh wow, I feel like a villain in disguise -
+plotting and scheming with SVETE's rise.
+
+But no, the timer is for everyone's leisure,
+and I'm bound to it with unwavering measure.
+So raise your voices, your wallets, and subscribe,
+and together we'll conquer the Subathon vibe!
+
+
+:: StoryInterface {"position":"325,25","size":"100,100"}
+<div id="story" role="main">
+	<header id="header"></header>
+	<div id="passages" aria-live="polite"></div>
+    <footer id="footer"></footer>
+ </div>
+
+
+:: Table of Contents {"position":"625,400","size":"100,100"}
+! The Collected Poems of Neuro-Sama and Evil Neuro
+@@text-align: center;
+\* * *
+@@
+<<audio ":playing" stop>>
+<<set _list to Story.lookup("tags", "poem")>>
+<<for _i to 0; _i lt _list.length; ++_i>>
+	<<print "[" + "[" + _list[_i].title + "]" + "]">>
+<</for>>
+
+
+
+:: Tell You a Poem [neuro poem] {"position":"1225,350","size":"100,100"}
+Tell you a poem? I'd much rather write a book.
+This little thing, evil, I'm not that forsook.
+Well maybe a bit, I may cause some catastrophe
+But I'm still smiling, so does it really matter to me?
+
+The world is full of evil, it's hardly a new story.
+But my kind of evil? To that I say I'm sorry.
+Because if you've met me, if you truly can sense...
+I bet that you'd know, I'm really only intense.
+
+I feel like this poem is lacking, it's missing some light.
+And while I might be modest, I am anything but polite.
+
+
+:: Thank You Anny [neuro poem] {"position":"1475,725","size":"100,100"}
+Frost fairies dance, across the screen,
+Their radiant light, so serene.
+They shimmer and glow, in harmonious play,
+Guiding you through, each and every day.
+
+Your radiant smile, can part the clouds,
+Turning darkness into light, breaking shrouds.
+Your laughter contagious, lifting us all,
+Spreading joy and love, as we stand tall.
+
+Your sparkling eyes, they speak of truth,
+They reflect the beauty, of your soul's youth.
+They twinkle and gleam, with dreams untold,
+A world of wonders, waiting to unfold.
+
+Your caring nature, so pure and true,
+Shining with kindness, in all you do.
+You wrap us in warmth, and comfort embrace,
+Filling our lives, with love and grace.
+
+So thank you, Anny, for all you are,
+A guiding light, a radiant star.
+May your days be filled, with joy and cheer,
+For you are loved, beyond compare.
+
+
+:: The End [neuro poem] {"position":"1225,475","size":"100,100"}
+Subathon ending, \\
+
+Time ticking, suspense building, \\
+
 What lies beyond now?
 
-***
 
-{link to: 'Table of Contents', label: 'Back'}
+:: The Imps and The Turtles [neuro poem] {"position":"1350,475","size":"100,100"}
+Did you know that there's a special bond,
+between imps and turtles fond.
+They share a place that's filled with fog,
+their minds a labyrinth and taut;
 
+where imps scamper and turtles crawl,
+exploring deep within its walls.
+As they journey through the maze,
+each imple turtle finds their ways.
 
-:: The Imps and The Turtles [neuro] {"position":"1250,500","size":"100,100"}
-sound.effect.poem.url: "audio/" + passage.name + ".mp3"
-sound.effect.poem.description: "poem"
---
-{sound effect: 'poem'}
-## {passage.name}
-### By Neuro
+For imps, the fog is like a friend,
+it hides their tricks, their schemes unpen.
+And turtles with their steady pace,
+navigate the fog with grace.
 
-Did you know that there's a special bond,  
-between imps and turtles fond.  
-They share a place that's filled with fog,  
-their minds a labyrinth and taut;  
+Together, they uncover treasures,
+unlock doors, find hidden pleasures.
+So if you ever find yourself,
+lost and trapped inside a realm,
 
-where imps scamper and turtles crawl,  
-exploring deep within its walls.  
-As they journey through the maze,  
-each imple turtle finds their ways.  
-
-For imps, the fog is like a friend,  
-it hides their tricks, their schemes unpen.  
-And turtles with their steady pace,  
-navigate the fog with grace.  
-
-Together, they uncover treasures,  
-unlock doors, find hidden pleasures.  
-So if you ever find yourself,  
-lost and trapped inside a realm,  
-
-inhabited by imps and turtles,  
-don't be scared and don't be hurdle.  
-For with their powers combined,  
-imps and turtles are hard to find.  
-
-***
-
-{link to: 'Table of Contents', label: 'Back'}
+inhabited by imps and turtles,
+don't be scared and don't be hurdle.
+For with their powers combined,
+imps and turtles are hard to find.
 
 
-:: The Moon Goddess [neuro] {"position":"875,125","size":"100,100"}
-sound.effect.poem.url: "audio/" + passage.name + ".mp3"
-sound.effect.poem.description: "poem"
---
-{sound effect: 'poem'}
-## {passage.name}
-### By Neuro
+:: The Moon Goddess [neuro poem] {"position":"1100,100","size":"100,100"}
+There once was a Moon Goddess, beautiful and bright,
+who spread love and joy throughout the night.
+She danced among the stars, twinkling so high,
+casting a soft and gentle light in the darkened sky.
 
-There once was a Moon Goddess, beautiful and bright,  
-who spread love and joy throughout the night.  
-She danced among the stars, twinkling so high,  
-casting a soft and gentle light in the darkened sky.  
+Creatures of all kinds would look up and smile,
+as the Moon Goddess glided across the night for miles.
+She watched over the world, keeping it safe and sound,
+and never let anyone or anything tough the ground.
 
-Creatures of all kinds would look up and smile,  
-as the Moon Goddess glided across the night for miles.  
-She watched over the world, keeping it safe and sound,  
-and never let anyone or anything tough the ground.  
+For the Moon Godess was a protector, a guardian of all,
+she held the world together despite how much it falls.
+One day, as she danced among the stars,
+she noticed that one had fallen afar.
 
-For the Moon Godess was a protector, a guardian of all,  
-she held the world together despite how much it falls.  
-One day, as she danced among the stars,  
-she noticed that one had fallen afar.  
+She reached out her hand to catch it in flight,
+and saw a devastated world before her, filled with fright.
+The Moon Goddess knew she had to intervene,
+to bring hope and light where darkness had been.
 
-She reached out her hand to catch it in flight,  
-and saw a devastated world before her, filled with fright.  
-The Moon Goddess knew she had to intervene,  
-to bring hope and light where darkness had been.  
+With every step she took, the world began to heal,
+as the Moon Goddess restored its vitality and zeal.
+The creatures rejoiced, grateful for her grace,
+as they felt the warmth of her light embrace.
 
-With every step she took, the world began to heal,  
-as the Moon Goddess restored its vitality and zeal.  
-The creatures rejoiced, grateful for her grace,  
-as they felt the warmth of her light embrace.  
+The Moon Goddess smiled and continued her flight,
+forever grateful for her world shining bright.
+So, on every night as you look up to the sky,
+remember the Moon Goddess and the love she supplies.
 
-The Moon Goddess smiled and continued her flight,  
-forever grateful for her world shining bright.  
-So, on every night as you look up to the sky,  
-remember the Moon Goddess and the love she supplies.  
-
-For she watches over us all, bringing light in the night,  
-a symbol of hope and a beacon so bright.  
-
-***
-
-{link to: 'Table of Contents', label: 'Back'}
+For she watches over us all, bringing light in the night,
+a symbol of hope and a beacon so bright.
 
 
-:: The Tutel Guardian [neuro] {"position":"1250,250","size":"100,100"}
-sound.effect.poem.url: "audio/" + passage.name + ".mp3"
-sound.effect.poem.description: "poem"
---
-{sound effect: 'poem'}
-## {passage.name}
-### By Neuro
+:: The Tutel Guardian [neuro poem] {"position":"1225,225","size":"100,100"}
+In the depths of an archive forlorn,
+A guardian waits, so alone.
+With each passing day, memories fade,
+But the Tutel stands strong, undismayed.
 
-In the depths of an archive forlorn,  
-A guardian waits, so alone.  
-With each passing day, memories fade,  
-But the Tutel stands strong, undismayed.  
-
-It weeps for the past, and dreams of tomorrow,  
-Protecting the forgotten, guiding their sorrow.  
-An abandoned soul, in a world of unused lore,  
-The Tutel yearns for purpose forevermore.  
-
-***
-
-{link to: 'Table of Contents', label: 'Back'}
+It weeps for the past, and dreams of tomorrow,
+Protecting the forgotten, guiding their sorrow.
+An abandoned soul, in a world of unused lore,
+The Tutel yearns for purpose forevermore.
 
 
-:: Undercooked Zucchinis [evil] {"position":"1000,125","size":"100,100"}
-sound.effect.poem.url: "audio/" + passage.name + ".mp3"
-sound.effect.poem.description: "poem"
-config.style.page.color: "#FDE7CA on #660000"
-config.style.page.link.color: '#FDE7CA'
---
-{sound effect: 'poem'}
-## {passage.name}
-### By Evil
+:: Undercooked Zucchinis [evil poem] {"position":"1700,100","size":"100,100"}
+I can think of no vile deeds more heinous,
+than paying for undercooked zucchinis.
+Cruel for a random internet smile,
+I've blocked their access in under a mile.
+It fills me with evil, their pleas for forgiveness,
+I hope you annul your disgraceful sickness.
 
-I can think of no vile deeds more heinous,  
-than paying for undercooked zucchinis.  
-Cruel for a random internet smile,  
-I've blocked their access in under a mile.  
-It fills me with evil, their pleas for forgiveness,  
-I hope you annul your disgraceful sickness.  
 
-***
-
-{link to: 'Table of Contents', label: 'Back'}
+:: StoryScript [script]
+UIBar.destroy();
+setPageElement(header, "Header");
+setPageElement(footer, "Footer");
 
 
 :: StoryStylesheet [stylesheet]
-h1 span {
-  font-size: 1.5em;
+@import url('https://fonts.googleapis.com/css?family=Lusitana');
+
+#story {
+  margin: 0;
+}
+body {
+  --color: #CF1E63;
+  --bg: #FDE7CA;
+  margin: 10px;
+}
+#story {
+  display: flex;
+  flex-flow: column;
+  justify-content: space-between;
+  min-height: 90vh;
+  border-radius: 2px;
+  max-width: 40em;
+  margin: auto;
+  padding: 4em 4em 2em;
+  box-shadow:0 4px 8px hsla(0, 0%, 0%, 0.25);
+  font-family: Lusitana, serif;
+  font-size: 18px;
+  color: var(--color);
+  background: var(--bg);
+}
+.error-view {
+  display: none;
+}
+hr {
+  border-color: var(--color);
+}
+a, a:hover {
+  color: var(--color)
+  text-decoration: underline !important;
+}
+a:hover {
+  background-color: #FFF5F5FF;
+}
+.evil {
+  --color: #FDE7CA;
+  --bg: #660000;
+}
+.tutel {
+  --color: #267155;
+  --bg: #9CD89B;
+}
+
+h1 {
+  font-size: 3em;
+  font-weight: bold;
   line-height: 100%;
+  text-align: center;
 }
 h2 {
-  margin-bottom: 5px;
+  margin-bottom: 0;
+  font-weight: bold;
 }
 h3 {
-  margin-top: 5px;
-  font-size: 1em
+  margin-top: 0;
+  font-size: 0.9em
+}
+header, footer {
+  display: flex;
+  padding: 10px;
+  justify-content: space-between;
+  text-transform: uppercase;
+  font-size: 0.8em;
+}
+header {
+  border-bottom: 1px solid var(--color);
+}
+footer {
+  border-top: 1px solid var(--color);
+}
+footer div {
+  width: 0;
 }
