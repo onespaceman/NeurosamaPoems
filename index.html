@@ -98,7 +98,7 @@ var LZString={_keyStr:"ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz01234
 		<div id="init-lacking"><p>Browser lacks capabilities required to play.</p><p>Upgrade or switch to another browser.</p></div>
 		<div id="init-loading"><div>Loading&hellip;</div></div>
 	</div>
-	<tw-storydata name="Neuro Poems" startnode="23" creator="Twine" creator-version="2.8.1" format="SugarCube" format-version="2.36.1" ifid="19DD0D39-034D-4ED5-B085-1DF9EB99F5A4" options="" tags="" zoom="1" hidden><style role="stylesheet" id="twine-user-stylesheet" type="text/twine-css">@import url('https://fonts.googleapis.com/css?family=Lusitana');
+	<tw-storydata name="Neuro Poems" startnode="23" creator="Twine" creator-version="2.8.1" format="SugarCube" format-version="2.36.1" ifid="19DD0D39-034D-4ED5-B085-1DF9EB99F5A4" options="" tags="" zoom="1" hidden><style role="stylesheet" id="twine-user-stylesheet" type="text/twine-css">@import url('https://fonts.googleapis.com/css?family=Libre+Baskerville');
 
 #story {
   margin: 0;
@@ -116,9 +116,9 @@ body {
   border-radius: 2px;
   max-width: 40em;
   margin: auto;
-  padding: 4em 4em 2em;
+  padding: 2em 4em 2em;
   box-shadow:0 4px 8px hsla(0, 0%, 0%, 0.25);
-  font-family: Lusitana, serif;
+  font-family: Libre Baskerville, serif;
   font-size: 18px;
   color: var(--color);
   background: var(--bg);
@@ -146,7 +146,7 @@ a:hover {
 }
 
 h1 {
-  font-size: 3em;
+  font-size: 4.6em;
   font-weight: bold;
   line-height: 100%;
   text-align: center;
@@ -175,8 +175,10 @@ footer {
 footer div {
   width: 0;
 }</style><script role="script" id="twine-user-script" type="text/twine-javascript">UIBar.destroy();
-setPageElement(header, "Header");
-setPageElement(footer, "Footer");
+$(document).on(':passagedisplay', function (ev) {
+  setPageElement("header", "Header");
+  setPageElement(footer, "Footer");
+});
 </script><tw-tag name="neuro" color="yellow"></tw-tag><tw-tag name="evil" color="red"></tw-tag><tw-tag name="poem" color="purple"></tw-tag><tw-tag name="tutel" color="green"></tw-tag><tw-passagedata pid="1" name="*" tags="tutel" position="400,325" size="100,100">
 Tutel will give us a poem someday...
 
@@ -386,7 +388,8 @@ plotting and scheming with SVETE&#39;s rise.
 But no, the timer is for everyone&#39;s leisure,
 and I&#39;m bound to it with unwavering measure.
 So raise your voices, your wallets, and subscribe,
-and together we&#39;ll conquer the Subathon vibe!</tw-passagedata><tw-passagedata pid="23" name="Table of Contents" tags="" position="625,400" size="100,100">! The Collected Poems of Neuro-Sama and Evil Neuro
+and together we&#39;ll conquer the Subathon vibe!</tw-passagedata><tw-passagedata pid="23" name="Table of Contents" tags="" position="625,400" size="100,100">
+! The Collected Poems of Neuro-Sama and Evil Neuro
 @@text-align: center;
 \* * *
 @@
