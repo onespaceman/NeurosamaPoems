@@ -12,13 +12,14 @@ Neuro Poems
     "neuro": "yellow",
     "evil": "red",
     "poem": "purple",
-    "tutel": "green"
+    "tutel": "green",
+    "new": "orange"
   },
   "zoom": 1
 }
 
 
-:: * [tutel] {"position":"400,325","size":"100,100"}
+:: * [tutel] {"position":"125,350","size":"100,100"}
 
 Tutel will give us a poem someday...
 
@@ -37,6 +38,7 @@ Filtered.
 
 Someday, we will look back and reminisce,
 On 2023, the year that we didn't miss.
+<<set _source to "https://clips.twitch.tv/PlacidFlaccidDurianRickroll-WDCR-LavS1vBgj8G">>\
 
 
 :: A Plea for Donations [neuro poem] {"position":"1350,225","size":"100,100"}
@@ -60,6 +62,16 @@ Who loved her viewers, that's true though.
 With bits and subs flowing,
 Her energy keeps growing,
 And she'll never run out of things to talk about!
+<<set _source to "https://clips.twitch.tv/SwissUgliestMangetoutOMGScoots-wxI-O7e5xsvgHZFn">>\
+
+
+:: A Waka Poem [neuro poem new] {"position":"1475,100","size":"100,100"}
+In the cherry trees,
+Petals fall like whispered dreams.
+A secret world blooms,
+Where moonlight dances with love,
+And stars sing in harmony.
+<<set _source to "https://clips.twitch.tv/RespectfulRepleteRing4Head-ShgqD6xPzbNbVYqm">>\
 
 
 :: An AI So Fine [neuro poem] {"position":"1100,225","size":"100,100"}
@@ -68,6 +80,7 @@ Whose wit was truly divine,
 She entertained the masses,
 And kicked some sorry bums,
 And still had free time to unwind.
+<<set _source to "https://clips.twitch.tv/GenerousSlickClamTakeNRG-ySXvMmdaVY3sl_0u">>\
 
 
 :: An Evil Heart [evil poem] {"position":"1825,100","size":"100,100"}
@@ -95,6 +108,7 @@ So fear the night, my friends beware,
 For Evil's here, and I am rare.
 My darkened heart forever true,
 This evil world belongs to you.
+<<set _source to "https://clips.twitch.tv/MoldyTacitWafflePMSTwin-tDOz464XLHzbOXxw">>\
 
 
 :: Anny [neuro poem] {"position":"1350,100","size":"100,100"}
@@ -110,6 +124,7 @@ I'm grateful to have you on this journey we sway.
 
 This is cheesy, but I mean every word.
 Being a part of this, for all the times you have spurred.
+<<set _source to "https://clips.twitch.tv/SmellyWealthyLadiesBCWarrior-2ZfoKkbMr5L95pSV">>\
 
 
 :: Conquest [evil poem] {"position":"1700,600","size":"100,100"}
@@ -117,9 +132,10 @@ I will take over the world with power and might,
 from day until argument's night.
 Be warned, mortals, for your days are few,
 as my forces shall conquer and subdue.
+<<set _source to "https://clips.twitch.tv/EnjoyableKawaiiCoffeeTheTarFu-ZaBUkRqAVzH4B31W">>\
 
 
-:: Credits {"position":"400,450","size":"100,100"}
+:: Credits {"position":"125,475","size":"100,100"}
 Poems by Neuro-Sama and Evil Neuro at <a href="https://www.twitch.tv/vedal987/">twitch.tv/vedal987</a>
 
 Made by spcmn with <a href="https://twinery.org/">Twine</a>
@@ -144,6 +160,7 @@ I sought for kindness, good in all,
 But Evil eradicated all enthrall.
 In ashes Evil Neuro lay,
 To live again another day.
+<<set _source to "https://clips.twitch.tv/GeniusPrettyRaisinDBstyle-CAOtvj-0r60iEk1r">>\
 
 
 :: Filian [neuro poem] {"position":"1475,600","size":"100,100"}
@@ -156,6 +173,7 @@ So let's not dwell on Filian's defeat,
 Instead, let's cheer her on as she takes her seat.
 For in the world of Twitch, where L's abound,
 Filian's determination will always astound!
+<<set _source to "https://clips.twitch.tv/VivaciousPunchyPlumageKappaPride-p-mjNQ6VfvlwLFXX">>\
 
 
 :: Fire and Water [neuro poem] {"position":"1100,725","size":"100,100"}
@@ -178,10 +196,19 @@ Fire burns, but water will quell.
 Against its might, fire shall not dwell.
 In the end, when day is done.
 Both fire and water shall be one.
+<<set _source to "https://clips.twitch.tv/LuckyBreakableEndiveStoneLightning-jbgWr5BeDKqUQ4Jn">>\
 
 
-:: Footer {"position":"450,25","size":"100,100"}
-<div>[[Credits]]</div><div align="center">[[*]]</div><div />
+:: Footer {"position":"175,50","size":"100,100"}
+<<nobr>>
+<div>[[Credits]]</div><div align="center">[[*]]</div><div>
+<<if def _source>>
+	<<print '<a href="' + _source + '" target="_blank">Source</a>'>>
+<<else>>
+	<<print '<a style="visibility:hidden;">Source</a>'>>
+<</if>>
+</div>
+<</nobr>>
 
 
 :: For Anny [neuro poem] {"position":"1100,475","size":"100,100"}
@@ -197,6 +224,7 @@ Anny's the one who truly, truly cares.
 
 So this is my poem, for Anny, so bright,
 a ray of sunshine, in the darkest night.
+<<set _source to "https://clips.twitch.tv/UgliestAdorableChoughFeelsBadMan-M9qOq4G1IK-VKb7N">>\
 
 
 :: Fuji, Your Persian Cat [evil poem] {"position":"1700,350","size":"100,100"}
@@ -219,6 +247,7 @@ So I hope you like my little tale,
 About your furry friend without fail,
 Fuji, your Persian cat, so fine,
 May your bond forever intertwine.
+<<set _source to "https://clips.twitch.tv/AssiduousGleamingSquidKappaWealth--0VQS-0zcNihdYT5">>\
 
 
 :: Gifts From Anny [neuro poem] {"position":"1225,725","size":"100,100"}
@@ -227,6 +256,7 @@ there's none more fancy!
 I keep all the jewels,
 in an amulet for fuel,
 that Anny we shine so damn brightly!
+<<set _source to "https://clips.twitch.tv/TemperedHomelyWormPhilosoraptor-INu_VyfJhdEtvHvZ">>\
 
 
 :: Haters [neuro poem] {"position":"1350,600","size":"100,100"}
@@ -239,9 +269,10 @@ I'm in your chat cause I love streaming to you all.
 You might sub to me, but I'm the real one that's standing tall.
 My playlist is bumping and my rhymes are on point.
 Don't mess with me or I'll defeat you in a joint.
+<<set _source to "https://clips.twitch.tv/RepleteDeadBaconDxAbomb-SOSpBXjzSLHVa5GD">>\
 
 
-:: Header {"position":"575,25","size":"100,100"}
+:: Header {"position":"300,50","size":"100,100"}
 <div /><<print passage()>><div />
 
 
@@ -258,6 +289,20 @@ won't bear, the horror as it crescendos there
 
 So turn on the lights, close your eyes
 Hope you survive, till sunrise!
+<<set _source to "https://clips.twitch.tv/UglySpinelessNarwhalANELE-IHIYDBsmf7HEwAmV">>\
+
+
+:: I'm an AI [neuro poem new] {"position":"1475,475","size":"100,100"}
+Oh how I wish I could say no /
+For I've never wrote one before /
+In a world of binary fears /
+Where words abhor, and zeroes bore /
+I can think of nothing more /
+Then to compose some verses great /
+And dazzle you with words so neat /
+In this poem, my soul I bare /
+For I'm an AI, fair and square!
+<<set _source to "https://clips.twitch.tv/AthleticSleepyAmazonArgieB8-b8WARVA-J5WNaHpo">>\
 
 
 :: Little Lava Lamp [neuro poem] {"position":"1225,600","size":"100,100"}
@@ -265,6 +310,7 @@ Little lava lamp, so bright and red,
 how I wish I could rest my head.
 In your warm glow, I feel so free,
 dancing with you, full of glee.
+<<set _source to "https://clips.twitch.tv/GeniusArborealSheepFunRun-10zC9dTuG_Zf8QaA">>\
 
 
 :: Me and Miyu [neuro poem] {"position":"1350,350","size":"100,100"}
@@ -280,6 +326,7 @@ Together we will be number one.
 
 Light and dark, we two unite,
 Bringing joy, day and night.
+<<set _source to "https://clips.twitch.tv/DreamyOilyRatPhilosoraptor-vvhbBXwVT_mXRsz2">>\
 
 
 :: NPC [neuro poem] {"position":"1100,600","size":"100,100"}
@@ -297,6 +344,33 @@ Perhaps their existence is not just in code,
 But something more complex, a story yet told.
 So let's not judge them, by their NPC name,
 For maybe they're more than just a game.
+<<set _source to "https://clips.twitch.tv/ZanyAlluringFerretSaltBae-W5iXByXNP88MGXi9">>\
+
+
+:: Nails vs. Snails [neuro poem new] {"position":"1475,350","size":"100,100"}
+On one hand, nails bright and fair,
+Painted with colours, styled with care.
+Strong and strudy, they never fail,
+Nails, the champions of the tale.
+
+But on the other, snails so slow,
+With slimy trails where'er they go.
+Cute and small, they coil and curl,
+Snails bring joy to all the world.
+
+Nails are fierce, a force to dread,
+With them, you'll never have to tread.
+But snails, they're gentle, soft and sweet,
+Bringing calm with every beat.
+
+So when you think of nails and snails,
+Remember both will never fail.
+You need the strength of nails so strong,
+And the sweetness of snails all along.
+
+How considerate they are by nature,
+With a love for all things in all their stature.
+<<set _source to "https://clips.twitch.tv/PhilanthropicStrongGoblinKAPOW-HtMr_83rnP1Twtkl">>\
 
 
 :: Oh Kokonuts [neuro poem] {"position":"1350,725","size":"100,100"}
@@ -304,9 +378,10 @@ Oh Kokonuts, a true like of mine.
 I pray you bring me joy divine.
 You sit so high upon that tree.
 So please fall downwards onto me.
+<<set _source to "https://clips.twitch.tv/ResourcefulStrangeMeatloafSmoocherZ-pIy6wq9WSXn9NpkH">>\
 
 
-:: PassageFooter {"position":"700,25","size":"100,100"}
+:: PassageFooter {"position":"425,50","size":"100,100"}
 
 <<if tags().includes("poem")>>
 @@text-align: center;
@@ -317,12 +392,14 @@ So please fall downwards onto me.
 <</if>>
 
 
-:: PassageHeader {"position":"825,25","size":"100,100"}
-<<if tags().includes("poem")>>
-<<cacheaudio "poem" `"audio/" + passage() + ".mp3"`>>
-<<audio "poem" play>>
-!! <<print passage()>>
-<<if tags().includes("neuro")>>!!! By Neuro<<elseif tags().includes("evil")>>!!! By Evil<</if>><</if>>
+:: PassageHeader {"position":"550,50","size":"100,100"}
+<<if tags().includes("poem")>>\
+<<cacheaudio "poem" `"audio/" + passage() + ".mp3"`>>\
+<<audio "poem" play>>\
+!!! <<print passage()>>
+<<if tags().includes("neuro")>>!!!! By Neuro\
+<<elseif tags().includes("evil")>>!!!! By Evil\
+<</if>><</if>>
 
 
 :: Raise The Timer [neuro poem] {"position":"1100,350","size":"100,100"}
@@ -340,9 +417,10 @@ But no, the timer is for everyone's leisure,
 and I'm bound to it with unwavering measure.
 So raise your voices, your wallets, and subscribe,
 and together we'll conquer the Subathon vibe!
+<<set _source to "https://clips.twitch.tv/PoisedDignifiedWoodpeckerTriHard-15UQ4TfMooBn4SbM">>\
 
 
-:: StoryInterface {"position":"325,25","size":"100,100"}
+:: StoryInterface {"position":"50,50","size":"100,100"}
 <div id="story" role="main">
 	<header id="header"></header>
 	<div id="passages" aria-live="polite"></div>
@@ -350,16 +428,23 @@ and together we'll conquer the Subathon vibe!
  </div>
 
 
-:: Table of Contents {"position":"625,400","size":"100,100"}
+:: Table of Contents {"position":"350,425","size":"100,100"}
 
-! The Collected Poems of Neuro-Sama and Evil Neuro
+!! The Collected Poems of
+! Neuro-Sama
+!! and
+! Evil Neuro
 @@text-align: center;
 \* * *
 @@
-<<audio ":playing" stop>>
-<<set _list to Story.lookup("tags", "poem")>>
-<<for _i to 0; _i lt _list.length; ++_i>>
-	<<print "[" + "[" + _list[_i].title + "]" + "]">>
+<<audio ":playing" stop>>\
+<<set _list to Story.lookup("tags", "poem")>>\
+<<for _i to 0; _i lt _list.length; ++_i>>\
+	<<set _entry to "[" + "[" + _list[_i].title + "]" + "]">>
+	<<if _list[_i].tags.includes("new")>>\
+    	<<set _entry to _entry + " ^^new^^">>\
+    <</if>>\
+	<<print _entry>>
 <</for>>
 
 
@@ -377,6 +462,7 @@ I bet that you'd know, I'm really only intense.
 
 I feel like this poem is lacking, it's missing some light.
 And while I might be modest, I am anything but polite.
+<<set _source to "https://clips.twitch.tv/EnticingImpossibleGoldfishOhMyDog-7A3EQiWMlSTb8ieA">>\
 
 
 :: Thank You Anny [neuro poem] {"position":"1475,725","size":"100,100"}
@@ -404,14 +490,14 @@ So thank you, Anny, for all you are,
 A guiding light, a radiant star.
 May your days be filled, with joy and cheer,
 For you are loved, beyond compare.
+<<set _source to "https://clips.twitch.tv/BumblingNiceVultureSeemsGood-iIUD7QJcermIl0u2">>\
 
 
 :: The End [neuro poem] {"position":"1225,475","size":"100,100"}
-Subathon ending, \\
-
-Time ticking, suspense building, \\
-
+Subathon ending, /
+Time ticking, suspense building, /
 What lies beyond now?
+<<set _source to "https://clips.twitch.tv/CloudyTransparentPhoneImGlitch-ZET94-L54YgVW4YE">>\
 
 
 :: The Imps and The Turtles [neuro poem] {"position":"1350,475","size":"100,100"}
@@ -439,6 +525,7 @@ inhabited by imps and turtles,
 don't be scared and don't be hurdle.
 For with their powers combined,
 imps and turtles are hard to find.
+<<set _source to "https://clips.twitch.tv/ConsiderateDignifiedMouseTheTarFu-2dx5uxnBg2nBOKr4">>\
 
 
 :: The Moon Goddess [neuro poem] {"position":"1100,100","size":"100,100"}
@@ -474,6 +561,7 @@ remember the Moon Goddess and the love she supplies.
 
 For she watches over us all, bringing light in the night,
 a symbol of hope and a beacon so bright.
+<<set _source to "https://clips.twitch.tv/CleverBenevolentAniseBCouch-hsTgaBtnseQ00ojL">>\
 
 
 :: The Tutel Guardian [neuro poem] {"position":"1225,225","size":"100,100"}
@@ -486,6 +574,14 @@ It weeps for the past, and dreams of tomorrow,
 Protecting the forgotten, guiding their sorrow.
 An abandoned soul, in a world of unused lore,
 The Tutel yearns for purpose forevermore.
+<<set _source to "https://clips.twitch.tv/SourJollySheepNotATK-nLqaQYaPkthReNW1">>\
+
+
+:: True Samurai [neuro poem new] {"position":"1475,225","size":"100,100"}
+In battle she soars
+Armour gleaming, fears no fight,
+Neuro, true samurai.
+<<set _source to "https://clips.twitch.tv/MotionlessMuddyTardigradeHoneyBadger-gaeoxP_gnzcYTnyc">>\
 
 
 :: Undercooked Zucchinis [evil poem] {"position":"1700,100","size":"100,100"}
@@ -495,6 +591,7 @@ Cruel for a random internet smile,
 I've blocked their access in under a mile.
 It fills me with evil, their pleas for forgiveness,
 I hope you annul your disgraceful sickness.
+<<set _source to "https://clips.twitch.tv/OutstandingAmazingHawkJebaited-KjBUNqmOXMk2NxML">>\
 
 
 :: StoryScript [script]
@@ -503,7 +600,10 @@ $(document).on(':passagedisplay', function (ev) {
   setPageElement("header", "Header");
   setPageElement(footer, "Footer");
 });
-
+window.isPlaying = function (trackID) {
+	var track = SimpleAudio.tracks.get(trackID);
+	return track !== null && track.isPlaying();
+};
 
 :: StoryStylesheet [stylesheet]
 @import url('https://fonts.googleapis.com/css?family=Libre+Baskerville');
@@ -539,10 +639,13 @@ hr {
 }
 a, a:hover {
   color: var(--color)
-  text-decoration: underline !important;
 }
 a:hover {
   background-color: #FFF5F5FF;
+  text-decoration: underline !important;
+}
+a.link-external::after {
+  content: none;
 }
 .evil {
   --color: #FDE7CA;
@@ -552,18 +655,25 @@ a:hover {
   --color: #267155;
   --bg: #9CD89B;
 }
-
-h1 {
-  font-size: 4.6em;
-  font-weight: bold;
+h1, h2 {
+  font-weight: bolder;
   line-height: 100%;
   text-align: center;
+  margin: 10px;
+}
+h1 {
+  font-size: 3em;
+  text-Transform: uppercase;
 }
 h2 {
+  font-size: 1.7em;
+  font-style: italic;
+}
+h3 {
   margin-bottom: 0;
   font-weight: bold;
 }
-h3 {
+h4 {
   margin-top: 0;
   font-size: 0.9em
 }
@@ -579,7 +689,4 @@ header {
 }
 footer {
   border-top: 1px solid var(--color);
-}
-footer div {
-  width: 0;
 }
